@@ -1,0 +1,15 @@
+C:\Users\Renato\source\repos\c#study\c#study\bin\Debug\net6.0\c#study.exe
+C:\Users\Renato\source\repos\c#study\c#study\bin\Debug\net6.0\c#study.deps.json
+C:\Users\Renato\source\repos\c#study\c#study\bin\Debug\net6.0\c#study.runtimeconfig.json
+C:\Users\Renato\source\repos\c#study\c#study\bin\Debug\net6.0\c#study.dll
+C:\Users\Renato\source\repos\c#study\c#study\bin\Debug\net6.0\c#study.pdb
+C:\Users\Renato\source\repos\c#study\c#study\obj\Debug\net6.0\c#study.csproj.AssemblyReference.cache
+C:\Users\Renato\source\repos\c#study\c#study\obj\Debug\net6.0\c#study.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renato\source\repos\c#study\c#study\obj\Debug\net6.0\c#study.AssemblyInfoInputs.cache
+C:\Users\Renato\source\repos\c#study\c#study\obj\Debug\net6.0\c#study.AssemblyInfo.cs
+C:\Users\Renato\source\repos\c#study\c#study\obj\Debug\net6.0\c#study.csproj.CoreCompileInputs.cache
+C:\Users\Renato\source\repos\c#study\c#study\obj\Debug\net6.0\c#study.dll
+C:\Users\Renato\source\repos\c#study\c#study\obj\Debug\net6.0\refint\c#study.dll
+C:\Users\Renato\source\repos\c#study\c#study\obj\Debug\net6.0\c#study.pdb
+C:\Users\Renato\source\repos\c#study\c#study\obj\Debug\net6.0\c#study.genruntimeconfig.cache
+C:\Users\Renato\source\repos\c#study\c#study\obj\Debug\net6.0\ref\c#study.dll
